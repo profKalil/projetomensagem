@@ -1,3 +1,7 @@
 #Programa para imprimir mensagem na tela
 
-print("Ola mundo")
+#variavel de entrada
+mensagem = "Ola mundo"
+
+#metodo de saida
+print(mensagem)
